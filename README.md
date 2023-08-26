@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tonka-x
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning pinescript.
-- 💞️ I’m looking to collaborate mostly on pinescript
+- 💞️ I’m looking to collaborate mostly on pinescript.
  
 
 <!---
