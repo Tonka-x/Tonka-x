@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning pinescript.
 - 💞️ I’m looking to collaborate mostly on pinescript.
 
+
  
 
 
